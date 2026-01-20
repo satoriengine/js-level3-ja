@@ -1,8 +1,7 @@
-// ブロックスコープの変数
 let color = 'red';
 
 if (color == 'red') {
-    // ブロックスコープの変数
+    // ブロックスコープの変数の宣言
     let message = 'This is red';
 }
 
