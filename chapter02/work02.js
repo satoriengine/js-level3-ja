@@ -1,6 +1,5 @@
-//関数スコープの変数
 function showName() {
-    // 関数スコープの変数
+    // 関数スコープの変数の宣言
     const name = 'Bob';
     console.log(name);
 }
