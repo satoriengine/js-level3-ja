@@ -12,7 +12,7 @@ I am Bob
 
 const name = 'Bob';
 
-if (name === 'Bob') {
+if (    ) {
     console.log('I am Bob');
 } else {
     console.log('I am not Bob');

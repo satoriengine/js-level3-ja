@@ -10,7 +10,7 @@
 numは5以上、かつ10以下です
 */
 
-const num = 5;
+const num = 
 
 if (num >= 5 && num <= 10) {
     console.log('numは5以上、かつ10以下です');

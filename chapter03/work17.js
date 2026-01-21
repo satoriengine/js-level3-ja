@@ -9,5 +9,3 @@ New York
 
 const a = 'New';
 const b = 'York';
-
-console.log(a + ' ' + b);
