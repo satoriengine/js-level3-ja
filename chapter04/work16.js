@@ -16,8 +16,3 @@ b is 5
 
 let a = 5;
 let b = 3;
-
-[b, a] = [a, b];
-
-console.log(`a is ${a}`);
-console.log(`b is ${b}`);

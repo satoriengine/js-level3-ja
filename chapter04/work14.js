@@ -13,7 +13,3 @@ orange
 */
 
 const fruits = ['apple', 'orange', 'melon'];
-
-const [a, b] = fruits;
-console.log(a);
-console.log(b);

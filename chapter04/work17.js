@@ -14,6 +14,3 @@
 
 const c1 = ['red', 'blue'];
 const c2 = ['black', 'white'];
-
-const c3 = [...c1, ...c2];
-console.log(c3);

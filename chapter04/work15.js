@@ -15,8 +15,3 @@ const student = {
     age: 17,
     hobby: 'Swimming',
 };
-
-const { name, hobby } = student;
-
-console.log(name);
-console.log(hobby);

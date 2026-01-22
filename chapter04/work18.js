@@ -10,8 +10,8 @@
 
 実行結果
 {
-  school: 'Seatle High School',
-  address: 'Seatle',
+  school: 'Seattle High School',
+  address: 'Seattle',
   name: 'Alice',
   age: 17,
   hobby: 'Tennis'
@@ -19,8 +19,8 @@
 */
 
 const school = {
-    school: 'Seatle High School',
-    address: 'Seatle',
+    school: 'Seattle High School',
+    address: 'Seattle',
 };
 
 const person = {
@@ -28,6 +28,3 @@ const person = {
     age: 17,
     hobby: 'Tennis',
 };
-
-const student = { ...school, ...person };
-console.log(student);
