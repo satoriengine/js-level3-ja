@@ -16,7 +16,3 @@ const person = {
     age: 17,
     address: 'London',
 };
-
-for (const value of Object.values(person)) {
-    console.log(value);
-}

@@ -11,7 +11,3 @@ Alice
 */
 
 const names = ['Bob', 'Tom', 'Alice'];
-
-for (const name of names) {
-    console.log(name);
-}

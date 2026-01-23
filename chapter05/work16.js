@@ -16,7 +16,3 @@ const person = {
     age: 17,
     address: 'London',
 };
-
-for (const [key, value] of Object.entries(person)) {
-    console.log(`${key} is ${value}`);
-}

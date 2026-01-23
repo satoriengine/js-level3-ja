@@ -16,7 +16,3 @@ const person = {
     age: 17,
     address: 'London',
 };
-
-for (const key of Object.keys(person)) {
-    console.log(key);
-}
