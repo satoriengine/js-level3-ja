@@ -22,7 +22,6 @@
 */
 
 //以下の部分に関数を定義します。
-const divide = (num1, num2) => num1 / num2;
 
 //ここより下側は修正してはいけません
 console.log(divide(10, 2));

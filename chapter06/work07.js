@@ -22,9 +22,6 @@ See you later
 */
 
 //以下の部分に関数を定義します。
-const bye = () => {
-    console.log('See you later');
-};
 
 //ここより下側は修正してはいけません
 bye();

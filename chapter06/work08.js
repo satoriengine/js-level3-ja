@@ -22,10 +22,6 @@
 */
 
 //以下の部分に関数を定義します。
-const multiply = (num1, num2) => {
-    const result = num1 * num2;
-    console.log(result);
-};
 
 //ここより下側は修正してはいけません
 multiply(5, 3);
