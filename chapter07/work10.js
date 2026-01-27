@@ -22,13 +22,6 @@
 */
 
 //以下の部分に関数を定義します。
-const getTotal = (data) => {
-    let total = 0;
-    for (const value of data) {
-        total += value;
-    }
-    return total;
-};
 
 //ここより下側は修正してはいけません
 const data = [5, 3, 2, 6, 4];

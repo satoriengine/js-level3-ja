@@ -14,6 +14,3 @@
 
 const p1 = ['Bob', 'Tom'];
 const p2 = ['Alice', 'Meg'];
-
-const p3 = [...p1, ...p2];
-console.log(p3);

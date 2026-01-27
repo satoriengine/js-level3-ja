@@ -16,8 +16,3 @@ const movie = {
     director: 'Tom Brothers',
     price: 15,
 };
-
-const { title, director } = movie;
-
-console.log(title);
-console.log(director);

@@ -21,6 +21,3 @@ const person = {
     name: 'Alice',
     age: 17,
 };
-
-const user = { ...location, ...person };
-console.log(user);

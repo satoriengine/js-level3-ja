@@ -16,7 +16,3 @@ const movie = {
     genre: 'SF',
     director: 'Tom Brothers',
 };
-
-for (const [key, value] of Object.entries(movie)) {
-    console.log(`${key} is ${value}`);
-}

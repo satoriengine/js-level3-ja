@@ -11,7 +11,7 @@
 numは10以上、かつ15以下です
 */
 
-const num = 10;
+const num = 
 
 if (num >= 10 && num <= 15) {
     console.log('numは10以上、かつ15以下です');

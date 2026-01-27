@@ -11,7 +11,3 @@ Madrid
 */
 
 const cities = ['Berlin', 'Paris', 'Madrid'];
-
-for (const city of cities) {
-    console.log(city);
-}

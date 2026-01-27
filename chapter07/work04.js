@@ -13,7 +13,3 @@ London
 */
 
 const cities = ['Tokyo', 'London', 'Madrid', 'Paris'];
-
-const [a, b] = cities;
-console.log(a);
-console.log(b);
