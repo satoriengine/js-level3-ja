@@ -1,5 +1,5 @@
 {
-  "name": "node-devcontainer",
+  "name": "my-devcontainer",
   // use universal default linux image version 5 as of May 2026
   "image": "mcr.microsoft.com/devcontainers/universal:5",
   "customizations": {
