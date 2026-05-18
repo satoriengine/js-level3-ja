@@ -1,6 +1,7 @@
 {
   "name": "node-devcontainer",
-  // 備考: imageを省略することで、Codespacesデフォルトの最新イメージ（現在はv5）が適用
+  // use universal default linux image version 5 as of May 2026
+  "image": "mcr.microsoft.com/devcontainers/universal:5",
   "customizations": {
     "vscode": {
       "settings": {
